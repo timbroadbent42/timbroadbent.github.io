@@ -7,7 +7,7 @@ var caretDownClassName = 'fa fa-caret-down';
 var table = document.getElementById('full_list');
 var input = document.getElementById('myinput');
 
-var tableData = rankingsData;
+var tableData = gameData;
 
 const sort_by = (field, reverse, primer) => {
 
@@ -67,17 +67,23 @@ function populateTable() {
 	table.innerHTML = '';
 	for (let data of tableData) {
 		let row = table.insertRow(-1);
-		let rank = row.insertCell(0);
-		rank.innerHTML = data.rank;
+		let date = row.insertCell(0);
+		date.innerHTML = data.date;
 
-		let corporation = row.insertCell(1);
-		corporation.innerHTML = data.corporation;
+		let players = row.insertCell(1);
+		players.innerHTML = data.players;
 
-		let rating = row.insertCell(2);
-		rating.innerHTML = data.rating;
+		let team1 = row.insertCell(2);
+		team1.innerHTML = data.team1;
 
-		let delta = row.insertCell(3);
-		delta.innerHTML = data.delta;
+		let score1 = row.insertCell(3);
+		score1.innerHTML = data.score1;
+
+		let score2 = row.insertCell(4);
+		score2.innerHTML = data.score2;
+
+		let team2 = row.insertCell(5);
+		team2.innerHTML = data.team2;
 	}
 
 	filterTable();
@@ -111,11 +117,11 @@ populateTable();
 
 let tableColumns = document.getElementsByClassName('table-column');
 
-for (let column of tableColumns) {
+/*for (let column of tableColumns) {
 	column.addEventListener('click', function(event) {
 		toggleArrow(event);
 	});
-}
+}*/
 
 input.addEventListener('keyup', function(event) {
 	filterTable();

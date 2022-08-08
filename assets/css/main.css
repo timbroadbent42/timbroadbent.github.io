@@ -2700,6 +2700,7 @@ input, select, textarea {
 				text-align: center;
 				text-decoration: none;
 				z-index: 3;
+				text-shadow: 0px 0px 5px black;
 			}
 
 				.tiles article > a > :last-child {
