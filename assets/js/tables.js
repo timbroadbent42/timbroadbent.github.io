@@ -11,6 +11,8 @@ var tableData = rankingsData;
 
 const sort_by = (field, reverse, primer) => {
 
+	const sort_reverse = ["rank", "corporation"];
+	
 	const key = primer ?
 	function(x) {
 	  return primer(x[field]);
@@ -19,11 +21,11 @@ const sort_by = (field, reverse, primer) => {
 	  return x[field];
 	};
 
-	if (typeof val === 'string') {
-		reverse = !reverse ? -1 : 1;
+	if (sort_reverse.includes(field)) {
+		reverse = !reverse ? 1 : -1;
 	}
 	else {
-		reverse = !reverse ? 1 : -1;
+		reverse = !reverse ? -1 : 1;
 	}
 	
 	return function(a, b) {
@@ -52,12 +54,12 @@ function toggleArrow(event) {
 
 	let iconClassName = caret.className;
 	clearArrow();
-	if (iconClassName.includes(caretUpClassName)) {
-		caret.className = `caret ${caretDownClassName}`;
-		reverse = false;
-	} else {
-		reverse = true;
+	if (iconClassName.includes(caretDownClassName)) {
 		caret.className = `caret ${caretUpClassName}`;
+		reverse = true;
+	} else {
+		reverse = false;
+		caret.className = `caret ${caretDownClassName}`;
 	}
 
 	tableData.sort(sort_by(field, reverse));
