@@ -7,95 +7,95 @@ rank,corporation,rating,delta
   6,Auscorp           ,1437,-24
 ~  ,System Shock      ,1420,-27
   7,Karanth           ,1375,-6
-  8,DadCorp           ,1366,8
-  9,Unimatrix Zero    ,1338,-22
+  8,Unimatrix Zero    ,1338,-22
+  9,DadCorp           ,1366,8
  10,Spacecrevards     ,1335,-22
- 11,OntarioDynasty    ,1304,10
- 12,Yishun CC         ,1291,-20
+ 11,Yishun CC         ,1291,-20
+ 12,OntarioDynasty    ,1304,10
  13,DUNE              ,1273,-19
 ~  ,RUS               ,1273,-19
  14,Anla'Shok         ,1273,-9
- 15,Ark Summit        ,1241,11
- 16,Team Elite        ,1234,38
- 17,Ender             ,1232,-17
- 18,ГОРИЗОНТ          ,1225,-17
+ 15,Ender             ,1232,-17
+ 16,ГОРИЗОНТ          ,1225,-17
 ~  ,Hades Corpo       ,1221,-16
- 19,Final             ,1216,-6
- 20,The Time Lords    ,1208,-4
- 21,Nearland Ind      ,1208,26
+ 17,Ark Summit        ,1242,11
+ 18,Final             ,1216,-6
+ 19,The Time Lords    ,1208,-4
 ~  ,InfamousExiles    ,1185,-15
+ 20,Team Elite        ,1234,39
+ 21,Nearland Ind      ,1208,26
  22,Imperium XIII     ,1177,7
- 23,DTC               ,1150,113
- 24,Dark Skai         ,1139,30
- 25,Watchers          ,1134,-12
- 26,HORNET            ,1134,-12
- 27,EradicatorElite   ,1133,-12
- 28,Black Solaris     ,1129,-12
- 29,Embers Rising     ,1118,-35
- 30,Tacitus           ,1117,-11
- 31,Wintercomes       ,1116,26
+ 23,Embers Rising     ,1118,-35
+ 24,Watchers          ,1134,-12
+ 25,HORNET            ,1134,-12
+ 26,EradicatorElite   ,1133,-12
+ 27,Black Solaris     ,1129,-12
+ 28,Tacitus           ,1117,-11
 ~  ,NERF              ,1113,-11
- 32,Spacefleet        ,1107,20
- 33,Grunthal Gang     ,1107,28
- 34,Sith Empire       ,1102,-10
+ 29,Sith Empire       ,1102,-10
 ~  ,Canadian Army     ,1100,-10
+ 30,Dark Skai         ,1101,-8
+ 31,Wintercomes       ,1116,26
 ~  ,EMP               ,1080,-9
- 35,Metal Nova        ,1079,26
- 36,Greener Pastures  ,1072,-9
- 37,Star Fall         ,1067,-1
- 38,Terranova         ,1065,11
+ 32,Spacefleet        ,1107,20
+ 33,Lexx              ,1024,-62
+ 34,Greener Pastures  ,1072,-9
+ 35,$TAR$             ,1070,-10
+ 36,Grunthal Gang     ,1105,26
 ~  ,Kyлak             ,1065,-8
- 39,Continuum         ,1063,32
- 40,Blood Brigade     ,1053,26
- 41,$TAR$             ,1047,-34
- 42,Weyland Corp      ,1046,-10
- 43,Void Consortium   ,1043,-7
- 44,Orion             ,1040,-7
+ 37,Star Fall         ,1067,-1
+ 38,Weyland Corp      ,1046,-10
+ 39,Terranova         ,1065,11
+ 40,Metal Nova        ,1071,19
+ 41,Void Consortium   ,1043,-7
+ 42,Orion             ,1047,0
+~  ,NOVA              ,1031,-16
 ~  ,BRhue             ,1040,-7
- 45,GermanIndustrie   ,1039,-7
-~  ,NOVA              ,1038,-9
+ 43,GermanIndustrie   ,1046,0
+ 44,DTC               ,1095,59
+ 45,Internationals    ,1003,-30
  46,Famous Assassins  ,1025,-6
- 47,Lexx              ,1024,-62
- 48,Red Dawn          ,1021,24
+ 47,Continuum         ,1063,32
+ 48,Blood Brigade     ,1053,26
 ~  ,Wacky Wabbits     ,1021,-6
-~  ,Stellaris         ,1021,181
- 49,Space Donuts      ,1019,72
- 50,H3LL FLAY3RS      ,1019,-6
+ 49,H3LL FLAY3RS      ,1019,-6
 ~  ,Order of Hades    ,1018,-6
 ~  ,Rise Up           ,1017,-6
- 51,Furyan Corps.     ,1011,-6
- 52,Bastion           ,1010,-6
+ 50,Furyan Corps.     ,1011,-6
+ 51,Bastion           ,1010,-6
 ~  ,Salamanders       ,1008,-6
- 53,UKR Spase         ,1004,-8
- 54,Internationals    ,1003,-30
- 55,Red Coat Mafia    ,1003,5
-~  ,Stellar Exports   ,1002,-5
- 56,Polaris           ,1001,-10
-~  ,Urban Legends     ,1001,-5
-~  ,nebulous          ,1000,-5
-~  ,Ancient Library   ,999,-5
-~  ,42-Omatic Corp    ,997,-5
-~  ,Star-Jump CORPS   ,996,-5
-~  ,For Ever HWI      ,996,-5
-~  ,Stargate Corp     ,996,-5
+ 52,UKR Spase         ,1004,-8
+ 53,Polaris           ,1001,-10
+~  ,Stellar Exports   ,1007,0
+~  ,Urban Legends     ,1006,0
+~  ,nebulous          ,1005,0
+~  ,Ancient Library   ,1004,0
+ 54,Black Sun         ,984,-20
+~  ,42-Omatic Corp    ,1002,0
+~  ,Star-Jump CORPS   ,1001,0
+~  ,For Ever HWI      ,1001,0
+~  ,Stargate Corp     ,1001,0
+ 55,Red Coat Mafia    ,1002,4
+~  ,Tormenta          ,976,-22
+ 56,Red Dawn          ,1021,24
 ~  ,Because Why Not   ,995,0
 ~  ,USSC              ,995,0
 ~  ,Toxic             ,995,0
 ~  ,TiesaFoundation   ,995,0
+~  ,Russian Team      ,993,-1
 ~  ,Grummibarenbande  ,994,0
 ~  ,Les Francaises    ,993,0
-~  ,Russian Team      ,993,-1
 ~  ,DISS LIGA         ,993,0
 ~  ,kumzumir          ,992,0
  57,Elite             ,992,0
  58,Widow Makers      ,991,0
  59,Bounty Hunters    ,991,0
 ~  ,龙门星团              ,989,0
+~  ,Vendetta Squad    ,978,-12
 ~  ,我有大氣球             ,989,0
 ~  ,Delta Strike      ,988,0
 ~  ,Prosperity        ,988,0
 ~  ,龙门训练营             ,988,0
- 60,Black Sun         ,985,-19
 ~  ,E.T.A             ,985,0
 ~  ,Saltarrocas       ,983,0
 ~  ,POCCNR            ,983,0
@@ -103,38 +103,38 @@ rank,corporation,rating,delta
 ~  ,Rogue Hero's      ,981,0
 ~  ,Omega Alpha       ,981,0
 ~  ,Titan Corp.       ,979,0
- 61,Obsidian          ,979,34
-~  ,Vendetta Squad    ,978,-12
- 62,USSR              ,977,0
-~  ,Tormenta          ,976,-22
+ 60,USSR              ,977,0
 ~  ,UAGC              ,975,0
 ~  ,The Black Bulls   ,975,0
 ~  ,Avabel Online     ,974,0
 ~  ,Phoenix Rising    ,974,0
 ~  ,MAPCIOKN          ,974,0
 ~  ,Argentina 1.0     ,972,0
- 63,ANBEPCAHTbl       ,972,0
+ 61,Dropbears Inc     ,959,-13
+ 62,ANBEPCAHTbl       ,972,0
 ~  ,battlesquadron    ,971,0
 ~  ,Sternenflotte     ,971,0
 ~  ,Space Penguins    ,970,0
 ~  ,M4-Legends        ,969,0
- 64,Austria           ,969,0
+ 63,Austria           ,969,0
 ~  ,Soylent Corp.     ,967,0
 ~  ,Imperial Armada   ,967,0
- 65,JTPS              ,966,0
+ 64,JTPS              ,966,0
 ~  ,AMБPEЛЛA          ,966,0
 ~  ,Sternenwanderer   ,965,0
 ~  ,The First Order   ,965,0
 ~  ,Society of Sin    ,961,0
 ~  ,The BR Project    ,961,0
+ 65,TPYNRNR           ,944,-17
 ~  ,Paиoн No 9        ,958,0
 ~  ,ZEN               ,958,0
- 66,the heavy         ,956,15
+ 66,Trade Station     ,941,-15
+~  ,Topговая Федерация,954,-2
 ~  ,Españoles         ,955,0
  67,Farland Ind.      ,954,0
  68,The Asylum        ,954,0
 ~  ,Avengers          ,954,0
-~  ,Topговая Федерация,954,-2
+~  ,Ahamkara          ,943,-8
 ~  ,H香港K              ,950,0
 ~  ,Old Men Gaming    ,950,0
  69,Rocket-by Baby    ,948,0
@@ -144,41 +144,42 @@ rank,corporation,rating,delta
 ~  ,Dansk             ,948,0
 ~  ,Collective        ,948,0
 ~  ,Elite Penguins    ,948,0
+ 70,Space Donuts      ,943,-4
 ~  ,Cool Casual       ,947,0
- 70,Corporation       ,946,0
+ 71,Corporation       ,946,0
+~  ,LossFarm No. 648  ,913,-32
 ~  ,Avantgarde        ,945,0
- 71,TPYNRNR           ,944,-17
+ 72,Obsidian          ,979,34
 ~  ,龙冂训练营             ,943,0
-~  ,Ahamkara          ,943,-8
 ~  ,Domus             ,943,0
 ~  ,Quilliance        ,943,0
 ~  ,Tёmный Bиxpь      ,943,0
+~  ,Enigma            ,939,-3
 ~  ,AlSounT           ,942,0
 ~  ,Guardians         ,942,0
 ~  ,BKC               ,942,0
- 72,Trade Station     ,941,-15
- 73,pirates spatial   ,941,0
- 74,Gulinga           ,940,0
-~  ,Enigma            ,939,-3
+ 73,the heavy         ,956,15
+ 74,pirates spatial   ,941,0
+ 75,Gulinga           ,940,0
 ~  ,Midland Ind.      ,939,0
 ~  ,Space Oddity      ,937,0
 ~  ,Octoberpierynm    ,937,0
 ~  ,Aus Alliance      ,935,0
- 75,星呢月球              ,934,0
+ 76,星呢月球              ,934,0
 ~  ,CnGR              ,933,0
+~  ,Гaлaктикa Элa     ,930,-3
 ~  ,The Goonies       ,933,0
 ~  ,Space bastards    ,933,0
 ~  ,Star Command      ,932,0
 ~  ,Gamekings         ,932,0
 ~  ,Galaxia           ,932,0
 ~  ,Lost Legion       ,931,0
+ 77,LOST PIRATES      ,914,-17
 ~  ,The Star League   ,930,0
-~  ,Гaлaктикa Элa     ,930,-3
 ~  ,Aggronauten       ,930,0
 ~  ,OntarioDominion   ,929,0
- 76,Tartaros Armada   ,929,0
+ 78,Tartaros Armada   ,929,0
 ~  ,Int. Trading Co   ,928,0
-~  ,Stalkers' Zone    ,927,16
 ~  ,Best              ,927,0
 ~  ,Delta Nation      ,925,0
 ~  ,Corvus Ind.       ,925,0
@@ -189,35 +190,33 @@ rank,corporation,rating,delta
 ~  ,Core Infliction   ,923,0
 ~  ,AlfaOmega         ,923,0
 ~  ,Galactic Force    ,923,0
+ 79,Kpanhnn Kocmoc    ,908,-15
 ~  ,帝国军事学院            ,923,0
 ~  ,Fomorians Eire    ,922,0
+ 80,kdy               ,892,-31
 ~  ,EZCO              ,922,0
 ~  ,VALLKIRIA         ,920,0
 ~  ,Ritter der Nuss   ,920,0
+ 81,VoidCorp          ,905,-15
 ~  ,DarkMoon          ,919,0
- 77,Star Dust         ,919,9
-~  ,Aobpothbie Nioan  ,919,25
 ~  ,Steak n' Shake    ,918,0
- 78,Dumpster Fire     ,918,76
- 79,海賊ギルド             ,918,0
+ 82,海賊ギルド             ,918,0
 ~  ,Ironbear Legion   ,918,0
 ~  ,STAR TERROR CZ    ,917,0
 ~  ,Corp. Estelar     ,917,0
- 80,Rising star       ,916,0
+ 83,Rising star       ,916,0
 ~  ,T E H b           ,916,0
 ~  ,DegobaSystem      ,916,0
 ~  ,Gwiezdna Horda    ,916,0
 ~  ,Kobol             ,915,0
 ~  ,Hamburg AG 2      ,915,0
- 81,LOST PIRATES      ,915,-16
 ~  ,KLM               ,914,0
 ~  ,Sky Walkers       ,914,0
 ~  ,Justice League    ,914,0
 ~  ,EGO               ,914,0
 ~  ,Defiant wolfs     ,913,0
-~  ,LossFarm No. 648  ,913,-32
 ~  ,Nmnepnr           ,913,0
- 82,ENFORCERS         ,913,0
+ 84,ENFORCERS         ,913,0
 ~  ,Pandora's Star    ,913,0
 ~  ,Deutsch Staat D   ,913,0
 ~  ,Nooooobs          ,912,0
@@ -225,14 +224,15 @@ rank,corporation,rating,delta
 ~  ,ShalaskanEmpire   ,911,0
 ~  ,Italian Stars     ,911,0
 ~  ,NoweUkladyll      ,911,0
- 83,G.M.U.            ,911,0
+~  ,Stalkers' Zone    ,927,16
+ 85,Polish Pirates    ,892,-19
+ 86,G.M.U.            ,911,0
+ 87,Star Dust         ,919,9
 ~  ,GalaxHitchikers   ,910,0
 ~  ,XenoCorp          ,909,0
 ~  ,Battle Academy    ,908,0
- 84,VoidCorp          ,907,-13
 ~  ,SYNDICATE         ,907,0
 ~  ,Diplomats Union   ,907,0
- 85,Kpanhnn Kocmoc    ,906,-16
 ~  ,The Fracture      ,905,0
 ~  ,Anarchy           ,904,0
 ~  ,exirium           ,903,0
@@ -241,19 +241,17 @@ rank,corporation,rating,delta
 ~  ,White Solaris     ,903,0
 ~  ,Abanoh            ,902,0
 ~  ,BattleCo          ,901,0
-~  ,Sol               ,900,9
 ~  ,Flight and War    ,900,0
 ~  ,Green Alliance    ,900,0
 ~  ,Legion Estelar    ,900,0
 ~  ,KOPNOPAUNR 3NA    ,900,0
 ~  ,Yellow Dwarf      ,900,0
 ~  ,星䂓地㺷              ,900,0
- 86,WFOS              ,900,0
+ 88,WFOS              ,900,0
 ~  ,Españoles 2       ,900,0
- 87,Bloodtide         ,900,25
 ~  ,W.O.A             ,900,0
 ~  ,Squadron          ,899,0
- 88,Das Imperium      ,899,0
+ 89,Das Imperium      ,899,0
 ~  ,Romania           ,899,0
 ~  ,LIETUVA           ,898,0
 ~  ,Regulus           ,898,0
@@ -276,15 +274,16 @@ rank,corporation,rating,delta
 ~  ,Acгapд            ,895,0
 ~  ,RESISTENCIA       ,895,0
 ~  ,Foreshadowing     ,895,0
+~  ,星舰地球              ,887,-7
 ~  ,Created           ,895,0
 ~  ,Polaris Corp.     ,894,0
 ~  ,The Promenade     ,894,0
+~  ,Aobpothbie Nioan  ,919,25
 ~  ,PHOENIX           ,894,0
- 89,Black Mirror Co   ,894,0
+ 90,Black Mirror Co   ,894,0
 ~  ,The Herd          ,894,0
 ~  ,Brazilcorp.       ,893,0
 ~  ,M3K               ,893,0
- 90,혁명군               ,893,28
 ~  ,BLOK EKIPA        ,893,0
 ~  ,Russian Corp      ,893,0
 ~  ,GalaxyGuardians   ,892,0
@@ -295,10 +294,11 @@ rank,corporation,rating,delta
 ~  ,RedFoxCorp        ,892,0
 ~  ,space rats        ,892,0
 ~  ,Majapahit         ,892,0
- 91,kdy               ,892,-31
 ~  ,Helion Prime      ,892,0
 ~  ,TITANS            ,891,0
+~  ,Daemon Runners    ,885,-6
 ~  ,Hun Avengers      ,891,0
+~  ,Sol               ,901,10
 ~  ,SveaEmpire        ,891,0
 ~  ,Speakeasy         ,891,0
 ~  ,The Guardians     ,890,0
@@ -317,23 +317,22 @@ rank,corporation,rating,delta
 ~  ,Hermes            ,888,0
 ~  ,BR Gear           ,888,0
 ~  ,Hun Generals      ,887,0
-~  ,星舰地球              ,887,-7
 ~  ,R.S.F.            ,887,0
 ~  ,On en a Gros !    ,886,0
 ~  ,A Team            ,886,0
+ 91,Void Dominion     ,879,-7
 ~  ,Dragon Eclipse    ,886,0
 ~  ,pycb              ,885,0
- 92,Dropbears Inc     ,885,-87
-~  ,Daemon Runners    ,885,-6
 ~  ,Star Destroyers   ,885,0
 ~  ,The Outfit        ,884,0
 ~  ,White Star Inc.   ,884,0
- 93,Anomaly           ,884,0
+ 92,Anomaly           ,884,0
 ~  ,7SinS             ,884,0
 ~  ,Pulsar            ,884,0
 ~  ,Rusty legacy      ,884,0
 ~  ,We R Bad          ,884,0
 ~  ,Legionnaires      ,884,0
+~  ,INFINITY STAR     ,859,-24
 ~  ,仙女座星雲             ,884,0
 ~  ,Legion Imperial   ,883,0
 ~  ,Sektion 31        ,883,0
@@ -344,7 +343,8 @@ rank,corporation,rating,delta
 ~  ,RussianRangers    ,881,0
 ~  ,Corp Du Jour      ,881,0
 ~  ,Void              ,881,0
- 94,IX Nernoh         ,881,0
+ 93,IX Nernoh         ,881,0
+ 94,Covenant          ,861,-20
 ~  ,OntarioDomicile   ,881,0
 ~  ,401(K)            ,881,0
 ~  ,群星联合会             ,881,0
@@ -354,16 +354,14 @@ rank,corporation,rating,delta
 ~  ,Battlestar FR     ,880,0
 ~  ,Alpha Tauri       ,880,0
 ~  ,Bo3poxaehne       ,880,0
-~  ,YAL               ,880,32
 ~  ,United Stars      ,879,0
 ~  ,TSI Inc.          ,879,0
- 96,Void Dominion     ,879,-7
 ~  ,Nюбители пива     ,878,0
-~  ,Proteus Tech      ,878,38
 ~  ,USA Corp          ,878,0
 ~  ,Peak Extraction   ,878,0
 ~  ,Omega Nation      ,878,0
 ~  ,RSR Bravo         ,878,0
+ 96,Cnythnk           ,870,-7
 ~  ,Curcubeu          ,877,0
 ~  ,Farming Inc.      ,877,0
 ~  ,alienigenas       ,877,0
@@ -373,18 +371,22 @@ rank,corporation,rating,delta
 ~  ,Alpaca Haven      ,875,0
 ~  ,SNSS              ,875,0
 ~  ,Les Chevaliers    ,875,0
+~  ,Любители Пива     ,859,-16
 ~  ,中国家民              ,875,0
 ~  ,OntarioDistrict   ,875,0
 ~  ,I.N.D.I.G.O       ,875,0
+ 97,Bloodtide         ,900,25
 ~  ,★后?明?星?           ,874,0
 ~  ,RSI               ,874,0
 ~  ,Prophecy          ,874,0
+ 98,The X-Files       ,865,-8
 ~  ,Crazy Elite       ,874,0
- 97,PocKocMoc         ,873,0
+ 99,PocKocMoc         ,873,0
+100,Special Force     ,860,-13
 ~  ,太空的猫              ,873,0
 ~  ,Parhapek          ,872,0
- 98,MAQUIS            ,871,0
- 99,Cnythnk           ,870,-7
+101,MAQUIS            ,871,0
+~  ,Serenity          ,867,-4
 ~  ,Federation        ,870,0
 ~  ,Discordia         ,870,0
 ~  ,PODER ETERNO      ,870,0
@@ -393,63 +395,58 @@ rank,corporation,rating,delta
 ~  ,Galactic Otters   ,868,0
 ~  ,Big Hammer        ,868,0
 ~  ,Winged Phoenix    ,868,0
-~  ,無盡 宿命             ,868,28
 ~  ,ANZAC Warriors    ,868,0
-~  ,Serenity          ,867,-4
-~  ,地球朕合              ,867,27
 ~  ,Star Fox          ,867,0
-~  ,听风秋月              ,867,27
-100,Galactic Empire   ,867,0
+102,Galactic Empire   ,867,0
 ~  ,Bcenehckne 40%    ,867,0
-101,Knights Ronin     ,867,0
+103,Knights Ronin     ,867,0
 ~  ,Dragon Army       ,866,0
+104,혁명군               ,893,28
 ~  ,UnionofSpace      ,865,0
+~  ,Dauntless         ,852,-12
 ~  ,Highland Ind.     ,864,0
 ~  ,华夏星海              ,864,0
-102,ROGUE ONE         ,863,0
+105,ROGUE ONE         ,863,0
 ~  ,第一序列              ,861,0
 ~  ,Peaky Blinders    ,861,0
 ~  ,Space Pirate      ,861,0
 ~  ,SALTARDIS         ,860,0
+~  ,UNSC              ,855,-5
 ~  ,Abh               ,860,0
 ~  ,CommCody & LPA    ,860,0
 ~  ,USA               ,860,0
 ~  ,West Worlders     ,860,0
-~  ,INFINITY STAR     ,859,-24
-103,Special Force     ,859,-14
-104,Deadspace         ,859,0
-~  ,Любители Пива     ,859,-16
+106,Deadspace         ,859,0
 ~  ,2nd Squad         ,859,0
 ~  ,Seila             ,859,0
+~  ,深空补给港             ,833,-26
 ~  ,Gummibarenbande   ,859,0
+~  ,The Picard        ,852,-6
 ~  ,YETI Collective   ,859,0
 ~  ,CTG               ,858,0
-105,FreeSpcAlliance   ,858,0
+107,FreeSpcAlliance   ,858,0
 ~  ,Hipernova         ,858,0
+~  ,Industrial W.O    ,850,-8
 ~  ,Minutemen         ,858,0
 ~  ,lucky cats        ,856,0
-106,Star Jumpers      ,856,0
+108,Star Jumpers      ,856,0
 ~  ,COЮЗ              ,856,0
-~  ,UNSC              ,855,-5
+109,FAIR              ,847,-8
 ~  ,Killer Shadow     ,855,0
 ~  ,Variants          ,855,0
 ~  ,Tycho Corp        ,855,0
 ~  ,Jaggernaut        ,855,0
 ~  ,Newbs             ,853,0
-107,Death Flight      ,853,0
-~  ,Dauntless         ,852,-12
+110,Death Flight      ,853,0
 ~  ,Space Balls       ,852,0
 ~  ,debutant fr       ,851,0
 ~  ,United Galaxies   ,851,0
-108,KARI              ,851,23
 ~  ,Ykp ihtpobeptn    ,851,0
-~  ,111               ,851,11
 ~  ,Ten Forward       ,851,0
 ~  ,Nebula            ,850,0
-~  ,Industrial W.O    ,850,-8
 ~  ,Wispered Storm    ,850,0
+~  ,YAL               ,880,32
 ~  ,Glashan           ,848,0
-109,FAIR              ,847,-8
 ~  ,C'est pas faux!   ,847,0
 ~  ,Providence        ,845,0
 ~  ,Galactic gods     ,845,0
@@ -459,42 +456,54 @@ rank,corporation,rating,delta
 ~  ,Stella Glow       ,845,0
 ~  ,Les Tilotest      ,844,0
 ~  ,BRASIL STAR       ,844,0
-110,Lacuna Ind.       ,844,0
+111,Lacuna Ind.       ,844,0
 ~  ,Lights Off        ,844,0
-111,Rogue Corp        ,843,0
+112,Rogue Corp        ,843,0
 ~  ,NERF TOY'S        ,843,0
 ~  ,Swiss Chillers    ,843,0
+113,Hydra             ,841,-1
 ~  ,RATAS             ,842,0
+114,Dumpster Fire     ,918,76
 ~  ,No Orbit          ,842,0
-112,Hydra             ,841,-1
+115,ITA               ,839,-3
 ~  ,TGY Inc.          ,841,0
-~  ,Shadow Lords      ,840,0
-~  ,CCCP              ,840,0
-~  ,水星联合织             ,839,0
-113,ITA               ,839,-3
-114,CbrtbleHeroAhnkn  ,838,0
-~  ,Gallaecia         ,837,-3
-~  ,銀河戦狼              ,837,-3
-~  ,Spectre           ,837,-3
-~  ,Lacuna Holdings   ,836,-4
-~  ,Sons of Liberty   ,836,0
-~  ,Corp. Estelar 2   ,835,-5
+~  ,111               ,851,11
 ~  ,The Gathering     ,835,-5
-115,Sprite            ,834,0
-~  ,The Seperatists   ,834,-6
-~  ,Three Rivers      ,834,-6
-~  ,꿀벌 왕국             ,834,-6
-~  ,深空补给港             ,833,-26
-~  ,Duchy Arrakis     ,831,-9
-~  ,Avabel Online 2   ,831,-9
-~  ,Hawa Bcenehhar    ,831,-9
+~  ,Stellaris         ,867,27
+~  ,銀河戦狼              ,837,-3
 ~  ,AHДPOMEДA         ,830,-10
-116,Madison Holding   ,830,-3
-~  ,GermanSpaceUno.   ,829,-6
-117,First Squad       ,828,-11
-~  ,PACCBET           ,827, -
-~  ,GDZ               ,825, -
-118,Rocket-Babies     ,825,-11
-119,Astra Ultima      ,824, -
+~  ,地球朕合              ,867,27
+~  ,The Seperatists   ,834,-6
+~  ,Hawa Bcenehhar    ,831,-9
+~  ,Shadow Lords      ,840,0
+~  ,听风秋月              ,867,27
+~  ,꿀벌 왕국             ,834,-6
+~  ,Gallaecia         ,836,-4
+~  ,無盡 宿命             ,868,28
+~  ,Corp. Estelar 2   ,835,-5
+~  ,Three Rivers      ,834,-6
 ~  ,THE FOUNDATION    ,817,-23
-120,Starsailors       ,817,-8
+~  ,Proteus Tech      ,878,38
+~  ,Lacuna Holdings   ,836,-4
+~  ,Avabel Online 2   ,831,-9
+~  ,Duchy Arrakis     ,831,-9
+~  ,Spectre           ,837,-3
+~  ,CCCP              ,840,0
+~  ,First Squad       ,828,-11
+~  ,水星联合织             ,839,0
+~  ,CbrtbleHeroAhnkn  ,838,0
+~  ,Sons of Liberty   ,836,0
+~  ,Rocket-Babies     ,823,-12
+~  ,GermanSpaceUno.   ,829,-6
+~  ,Sprite            ,834,0
+~  ,Madison Holding   ,830,-3
+~  ,KARI              ,851,22
+~  ,PACCBET           ,827,0
+~  ,GDZ               ,825,0
+~  ,Starsailors       ,817,-8
+~  ,Astra Ultima      ,824,0
+~  ,(_(_Vossk_)_)     ,816,-7
+~  ,Path of Hades     ,807,-9
+~  ,Space Marine      ,809,0
+~  ,世外桃源              ,807,0
+~  ,Solysis           ,779,0
