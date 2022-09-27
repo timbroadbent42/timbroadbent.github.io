@@ -2361,6 +2361,9 @@ input, select, textarea {
 			top: 0.25em;
 		}
 
+		.image.small {
+			max-height: 150px;
+		}
 		.image.avatar {
 			max-height: 150px;
 			-moz-transition: -moz-transform 0.5s ease;
@@ -2469,6 +2472,21 @@ input, select, textarea {
 
 			table.alt tfoot {
 				border-top: 0;
+			}
+
+		table.plain {
+			width: auto;
+			border-collapse: separate;
+		}
+			table.plain td {
+				padding: 0.5em 0.5em;
+				background-color: #ffffff;
+			}
+			table.plain th {
+				padding: 0.5em 0.5em;
+				border-bottom: solid 2px #c9c9c9;
+			}
+			table.plain tr {
 			}
 
 /* Button */
